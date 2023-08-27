@@ -77,7 +77,7 @@ git fetch
 ```
 3. Rodo o comando de merge
 ```bash
-git merge <nome-da-branch-com-o-recurso>
+git merge Felipe
 ```
 ## Ordem da utilização
 
